@@ -11,3 +11,5 @@ export default class App extends React.Component {
     )
   }
 }
+
+// JE RQJOUTE DES TRUCS TROP COOL
